@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+.qr-code {
+    display: inline-block;
+    margin: 10px;
+    border: 2px dashed #4CAF50; /* Border style for QR codes */
+    padding: 10px;
+}
