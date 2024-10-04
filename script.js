@@ -21,11 +21,8 @@ const extinguishers = [
     {
         "S.no": 3,
         "extinguisher_no": "000000000002",
-        "location": "guduvancherry",
-        "extinguisher_type": "CO2",
-        "extinguisher_kg": 3,
-        "status": "Operational",
-        "MFG": "2022-07-15"
+        "location": "guduvancheryy",
+        
     },
     // Add more extinguishers as needed...
 ];
